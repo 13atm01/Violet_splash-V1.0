@@ -8,12 +8,9 @@
 
 ## :art: Screenshot
 
-:link: ***SS 1***  ![SS](/Other/Splash_v1,0.png)
-
-## :page_with_curl: License
-Splash Screen and licensed under [GNU GPLv3](LICENSE)
+![SS](/Other/Splash_v1,0.png)
 
 ## :wrench: Installation
 
-- You can install it directly from `System Settings > Splash Screen > Get New Splash Screen and Search Violet Evergarden`
+- You can install it directly from `System Settings > Startup and Shutdown > Splash Screen > Get New Splash Screens and Search Violet Evergarden`
 - Or downloading file from my [KDE Store](https://store.kde.org/p/1460153/), extract the file and move it to the directory `~/.local/share/plasma/look-and-feel`
