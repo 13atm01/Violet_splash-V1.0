@@ -1,4 +1,4 @@
-<<p align="center">
+<p align="center">
   <img src="Other/Splash.png" width="75%"/>
 </p>
 
